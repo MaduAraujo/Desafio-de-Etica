@@ -1,0 +1,5 @@
+{
+  "name": "Desafio de Ética",
+  "description": "Uma aplicação web interativa que apresenta aos usuários dilemas éticos de IA, permitindo-lhes tomar decisões e receber análises geradas por IA sobre suas escolhas para promover a reflexão.",
+  "requestFramePermissions": []
+}
